@@ -30,12 +30,7 @@ O projeto foi desenvolvido como exercício prático de manipulação do DOM, eve
 
 ---
 
-## Como executar
-
-1. Baixe os arquivos do repositório ou clone o projeto.
-2. Mantenha os arquivos `index.html`, `style.css` e `index.js` na mesma pasta.
-3. Abra o arquivo `index.html` em seu navegador.
-4. Utilize o seletor de cores para visualizar as alterações.
+## Link de acesso: https://cesarjr23.github.io/hexGenerator/
 
 ---
 
